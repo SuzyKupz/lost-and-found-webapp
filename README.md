@@ -16,4 +16,4 @@ Tech Stack
 
 Made By
 Team Zenith  
-[GitHub Profile]()
+[GitHub Profile](https://github.com/SuzyKupz)
